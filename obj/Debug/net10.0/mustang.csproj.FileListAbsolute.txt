@@ -1,0 +1,14 @@
+E:\utc\private\mustang\bin\Debug\net10.0\mustang.exe
+E:\utc\private\mustang\bin\Debug\net10.0\mustang.deps.json
+E:\utc\private\mustang\bin\Debug\net10.0\mustang.runtimeconfig.json
+E:\utc\private\mustang\bin\Debug\net10.0\mustang.dll
+E:\utc\private\mustang\bin\Debug\net10.0\mustang.pdb
+E:\utc\private\mustang\obj\Debug\net10.0\mustang.GeneratedMSBuildEditorConfig.editorconfig
+E:\utc\private\mustang\obj\Debug\net10.0\mustang.AssemblyInfoInputs.cache
+E:\utc\private\mustang\obj\Debug\net10.0\mustang.AssemblyInfo.cs
+E:\utc\private\mustang\obj\Debug\net10.0\mustang.csproj.CoreCompileInputs.cache
+E:\utc\private\mustang\obj\Debug\net10.0\mustang.dll
+E:\utc\private\mustang\obj\Debug\net10.0\refint\mustang.dll
+E:\utc\private\mustang\obj\Debug\net10.0\mustang.pdb
+E:\utc\private\mustang\obj\Debug\net10.0\mustang.genruntimeconfig.cache
+E:\utc\private\mustang\obj\Debug\net10.0\ref\mustang.dll
